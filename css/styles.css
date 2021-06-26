@@ -1,0 +1,26 @@
+.row {
+  margin-bottom: 15px;
+}
+
+.section {
+  background-color: gray;
+  padding: 15px;
+}
+
+
+.navbar {
+  background-color: rgb(111, 189, 111);
+  padding-bottom: 15px;
+}
+
+.navbar > p {
+  color: black;
+}
+
+.list {
+  border: 3px black solid;
+  padding: 3px;
+}
+.menu {
+  padding: 15px;
+}
